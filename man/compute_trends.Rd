@@ -18,7 +18,7 @@ compute_trends(list_distri, factor_name = NA, ystart, yend, alpha = 0.05)
 \item{alpha}{Error threshold used to compute the confidence intervals, by default 5\%}
 }
 \value{
-A data.frame containing population trend expressed as a percentage between \emph{ystart} and \emph{yend}, with confidence intervals computed at the specified \emph{alpha} value and for the levels of the grouping factor, if any
+A dataframe containing population trend expressed as a percentage between \emph{ystart} and \emph{yend}, with confidence intervals computed at the specified \emph{alpha} value and for the levels of the grouping factor, if any
 }
 \description{
 This function computes trends of the abundance index thanks to the values simulated by the \emph{compute_distri} function, and some grouping factor of interested.
