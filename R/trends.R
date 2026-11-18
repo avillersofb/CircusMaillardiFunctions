@@ -83,7 +83,7 @@ compute_distri<-function(model, dfpred, time_var="year", factor_name=NA, nreplic
 #' @param yend Last time point used to compute the trend
 #' @param alpha Error threshold used to compute the confidence intervals, by default 5%
 #' @importFrom stats quantile
-#' @return A data.frame containing population trend expressed as a percentage between *ystart* and *yend*, with confidence intervals computed at the specified *alpha* value and for the levels of the grouping factor, if any
+#' @return A dataframe containing population trend expressed as a percentage between *ystart* and *yend*, with confidence intervals computed at the specified *alpha* value and for the levels of the grouping factor, if any
 #' @export
 #'
 #'

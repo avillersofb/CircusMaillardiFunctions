@@ -1,8 +1,9 @@
 Package: CircusMaillardiFunctions
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: A package Including Functions Used To Compute Trends And Plot Results In A GAM Framework
+Version: 0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Alexandre", "Villers", email="alexandre.villers@ofb.gouv.fr", role = c("aut", "cre"),
+    comment=c(ORCID="0000-0003-3050-4106"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Config/roxygen2/version: 8.1.1
