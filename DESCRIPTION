@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: 
     person("Alexandre", "Villers", email="alexandre.villers@ofb.gouv.fr", role = c("aut", "cre"),
     comment=c(ORCID="0000-0003-3050-4106"))
-Description: What the package does (one paragraph).
+Description: The package harbours some home-made functions used for analyses in the manuscript 'Long-term population monitoring reveals an alarming decline in the endangered endemic Réunion Harrier *Circus maillardi*' https://www.biorxiv.org/content/10.1101/2025.11.07.687144v2 .
 License: MIT + file LICENSE
 Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
